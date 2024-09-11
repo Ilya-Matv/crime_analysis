@@ -37,4 +37,5 @@ FROM
   crime_clusters
 ORDER BY 
   crimes_within_radius DESC
+  
 LIMIT 1;
